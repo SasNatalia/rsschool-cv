@@ -27,5 +27,5 @@ BSUIR
 ## Languages:
 * Russian — Native
 * English — A2 ( B1 in process…)
-* Polish — A2
+* Polish — A2 ( B1 in process…)
 
