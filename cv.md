@@ -18,7 +18,7 @@ Easy to learn, focusing on final goals.
 ```
 ```
 ## Experience:
-I have little experience in SEO and Frontend development. I have worked on several small projects and currently working.
+I have experience in SEO and little experience in Frontend development. I have worked on several small projects and currently working.
 
 ## Education:
 BSUIR
